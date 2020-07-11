@@ -2,10 +2,12 @@
 
 ## Introduction
 
-This is a very simple CI application based on the Tutorial in the official CI Document.
-
+This is a very simple CodeIgniter3 application based on the official tutorial.
 Here's the link of the tutorial:
 https://codeigniter.com/userguide3/tutorial/index.html
+
+This project is super lite! No extra framework, like BOOTSTRAP, VUE, Javascript, .....;
+Just CodeIgniter, PHP, HTML & CSS.
 
 ## Notes
 - The application configuration is located at the application/config
