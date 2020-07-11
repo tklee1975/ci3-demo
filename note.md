@@ -4,6 +4,9 @@
 
 This is a very simple CI application based on the Tutorial in the official CI Document.
 
+Here's the link of the tutorial:
+https://codeigniter.com/userguide3/tutorial/index.html
+
 ## Notes
 - The application configuration is located at the application/config
 
@@ -45,3 +48,11 @@ CREATE TABLE `news` (
 ## Entry URL
 Testing URI
 http://localhost:8888/php/ci3-demo/index.php/news
+
+
+## Where to modify the Code
+- Mainly at application folder
+- Configuration :    application/config/config.php
+- Controller Logic : application/controllers/*.php
+- View :  application/views/*.php
+- Stylesheet : css/*.css
