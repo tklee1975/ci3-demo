@@ -1,0 +1,36 @@
+BODY {
+  margin: 0
+}
+
+.logo {
+  width: 50px;
+}
+
+.toolBar {
+    background:#eee; height:50px;
+    padding-left: 10px;
+    display: flex;
+    align-items:center;
+}
+
+.toolBar A {
+    font-size: 1.2em;
+    text-decoration: none;
+}
+
+.toolBar A:hover {
+    font-size: 1.3em;
+    color: red;
+    text-decoration: none;
+}
+
+.topBar {
+  display: flex;
+  align-items: center;
+  padding:0px;
+  background: #000
+}
+
+.header {
+  font-size:2em; padding:10px; color:white
+}
